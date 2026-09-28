@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
-**Name:** ____________________  
-**Roll number:** ____________________
+**Name:** Maltesh R bagari
+**SRN:** R25EJ066
 
 Personal LeetCode practice log - part of B25GE0101 portfolio.
 
